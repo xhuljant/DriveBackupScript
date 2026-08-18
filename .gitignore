@@ -4,5 +4,5 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-.json
-.bat
+backup_state.json
+backup_log.txt
